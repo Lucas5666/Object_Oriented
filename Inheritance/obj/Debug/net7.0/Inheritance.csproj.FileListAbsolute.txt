@@ -1,0 +1,15 @@
+/Users/lucai/Projects/Object_Oriented/Inheritance/bin/Debug/net7.0/Inheritance
+/Users/lucai/Projects/Object_Oriented/Inheritance/bin/Debug/net7.0/Inheritance.deps.json
+/Users/lucai/Projects/Object_Oriented/Inheritance/bin/Debug/net7.0/Inheritance.runtimeconfig.json
+/Users/lucai/Projects/Object_Oriented/Inheritance/bin/Debug/net7.0/Inheritance.dll
+/Users/lucai/Projects/Object_Oriented/Inheritance/bin/Debug/net7.0/Inheritance.pdb
+/Users/lucai/Projects/Object_Oriented/Inheritance/obj/Debug/net7.0/Inheritance.csproj.AssemblyReference.cache
+/Users/lucai/Projects/Object_Oriented/Inheritance/obj/Debug/net7.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucai/Projects/Object_Oriented/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfoInputs.cache
+/Users/lucai/Projects/Object_Oriented/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfo.cs
+/Users/lucai/Projects/Object_Oriented/Inheritance/obj/Debug/net7.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/lucai/Projects/Object_Oriented/Inheritance/obj/Debug/net7.0/Inheritance.dll
+/Users/lucai/Projects/Object_Oriented/Inheritance/obj/Debug/net7.0/refint/Inheritance.dll
+/Users/lucai/Projects/Object_Oriented/Inheritance/obj/Debug/net7.0/Inheritance.pdb
+/Users/lucai/Projects/Object_Oriented/Inheritance/obj/Debug/net7.0/Inheritance.genruntimeconfig.cache
+/Users/lucai/Projects/Object_Oriented/Inheritance/obj/Debug/net7.0/ref/Inheritance.dll

@@ -1,5 +1,29 @@
-﻿<Properties StartupConfiguration="{EA7584DD-12C5-41D7-8DCB-DA6E014BE747}|Default">
+﻿<Properties StartupConfiguration="{C2E60B69-51CD-496B-8C04-CF3458B57997}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Inheritance FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Object__Oriented FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Inheritance/Transportation.cs">
+    <Files>
+      <File FileName="Object_Oriented/Program.cs" Line="1" Column="1" />
+      <File FileName="Inheritance/Program.cs" Line="10" Column="32" />
+      <File FileName="Inheritance/Preson.cs" Line="9" Column="4" />
+      <File FileName="Inheritance/Transportation.cs" Line="13" Column="44" />
+      <File FileName="Inheritance/Airplane.cs" Line="4" Column="40" />
+      <File FileName="Inheritance/Train.cs" Line="6" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Object_Oriented" expanded="True">
+            <Node name="Inheritance" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
