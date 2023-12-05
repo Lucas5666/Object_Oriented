@@ -1,29 +1,37 @@
-﻿<Properties StartupConfiguration="{C2E60B69-51CD-496B-8C04-CF3458B57997}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{B0099DB1-F5C0-49CA-B927-6E0CFDA31052}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Object__Oriented FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Inheritance/Transportation.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="泛化和关联/Program.cs">
     <Files>
-      <File FileName="Object_Oriented/Program.cs" Line="1" Column="1" />
-      <File FileName="Inheritance/Program.cs" Line="10" Column="32" />
-      <File FileName="Inheritance/Preson.cs" Line="9" Column="4" />
-      <File FileName="Inheritance/Transportation.cs" Line="13" Column="44" />
-      <File FileName="Inheritance/Airplane.cs" Line="4" Column="40" />
-      <File FileName="Inheritance/Train.cs" Line="6" Column="19" />
+      <File FileName="Object_Oriented/Program.cs" />
+      <File FileName="Inheritance/Program.cs" />
+      <File FileName="Inheritance/Preson.cs" />
+      <File FileName="Inheritance/Transportation.cs" />
+      <File FileName="Inheritance/Airplane.cs" />
+      <File FileName="Inheritance/Train.cs" />
+      <File FileName="泛化和关联/Program.cs" Line="14" Column="11" />
+      <File FileName="泛化和关联/Employee.cs" />
+      <File FileName="泛化和关联/Tester.cs" />
+      <File FileName="泛化和关联/EmployeeManager.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Object_Oriented" expanded="True">
-            <Node name="Inheritance" expanded="True" />
+            <Node name="泛化和关联" expanded="True" />
+            <Node name="Object_Oriented" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/lucai/Projects/Object_Oriented/泛化和关联/Program.cs" relfile="泛化和关联/Program.cs" line="17" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Object__Oriented FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.泛化和关联 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
