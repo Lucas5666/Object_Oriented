@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "泛化和关联", "泛化和关联\泛化和关联.csproj", "{B0099DB1-F5C0-49CA-B927-6E0CFDA31052}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{438B1255-C7C3-4558-8420-0FB0DF2E6119}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B0099DB1-F5C0-49CA-B927-6E0CFDA31052}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0099DB1-F5C0-49CA-B927-6E0CFDA31052}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0099DB1-F5C0-49CA-B927-6E0CFDA31052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{438B1255-C7C3-4558-8420-0FB0DF2E6119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438B1255-C7C3-4558-8420-0FB0DF2E6119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438B1255-C7C3-4558-8420-0FB0DF2E6119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438B1255-C7C3-4558-8420-0FB0DF2E6119}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

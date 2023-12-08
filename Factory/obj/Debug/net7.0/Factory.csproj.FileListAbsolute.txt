@@ -1,0 +1,15 @@
+/Users/lucai/Projects/Object_Oriented/Factory/bin/Debug/net7.0/Factory
+/Users/lucai/Projects/Object_Oriented/Factory/bin/Debug/net7.0/Factory.deps.json
+/Users/lucai/Projects/Object_Oriented/Factory/bin/Debug/net7.0/Factory.runtimeconfig.json
+/Users/lucai/Projects/Object_Oriented/Factory/bin/Debug/net7.0/Factory.dll
+/Users/lucai/Projects/Object_Oriented/Factory/bin/Debug/net7.0/Factory.pdb
+/Users/lucai/Projects/Object_Oriented/Factory/obj/Debug/net7.0/Factory.csproj.AssemblyReference.cache
+/Users/lucai/Projects/Object_Oriented/Factory/obj/Debug/net7.0/Factory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucai/Projects/Object_Oriented/Factory/obj/Debug/net7.0/Factory.AssemblyInfoInputs.cache
+/Users/lucai/Projects/Object_Oriented/Factory/obj/Debug/net7.0/Factory.AssemblyInfo.cs
+/Users/lucai/Projects/Object_Oriented/Factory/obj/Debug/net7.0/Factory.csproj.CoreCompileInputs.cache
+/Users/lucai/Projects/Object_Oriented/Factory/obj/Debug/net7.0/Factory.dll
+/Users/lucai/Projects/Object_Oriented/Factory/obj/Debug/net7.0/refint/Factory.dll
+/Users/lucai/Projects/Object_Oriented/Factory/obj/Debug/net7.0/Factory.pdb
+/Users/lucai/Projects/Object_Oriented/Factory/obj/Debug/net7.0/Factory.genruntimeconfig.cache
+/Users/lucai/Projects/Object_Oriented/Factory/obj/Debug/net7.0/ref/Factory.dll
