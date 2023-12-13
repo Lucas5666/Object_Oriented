@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "泛化和关联", "泛化�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{438B1255-C7C3-4558-8420-0FB0DF2E6119}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection", "Reflection\Reflection.csproj", "{677FE70A-4EFE-4671-9409-883C50424544}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonHelper", "JsonHelper\JsonHelper.csproj", "{1EA4EA71-0585-4FD9-B9A1-BB38209A57C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{438B1255-C7C3-4558-8420-0FB0DF2E6119}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{438B1255-C7C3-4558-8420-0FB0DF2E6119}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{438B1255-C7C3-4558-8420-0FB0DF2E6119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{677FE70A-4EFE-4671-9409-883C50424544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677FE70A-4EFE-4671-9409-883C50424544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677FE70A-4EFE-4671-9409-883C50424544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677FE70A-4EFE-4671-9409-883C50424544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA4EA71-0585-4FD9-B9A1-BB38209A57C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA4EA71-0585-4FD9-B9A1-BB38209A57C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA4EA71-0585-4FD9-B9A1-BB38209A57C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA4EA71-0585-4FD9-B9A1-BB38209A57C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

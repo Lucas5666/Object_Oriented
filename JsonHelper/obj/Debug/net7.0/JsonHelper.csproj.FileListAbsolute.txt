@@ -1,0 +1,15 @@
+/Users/lucai/Projects/Object_Oriented/JsonHelper/bin/Debug/net7.0/JsonHelper
+/Users/lucai/Projects/Object_Oriented/JsonHelper/bin/Debug/net7.0/JsonHelper.deps.json
+/Users/lucai/Projects/Object_Oriented/JsonHelper/bin/Debug/net7.0/JsonHelper.runtimeconfig.json
+/Users/lucai/Projects/Object_Oriented/JsonHelper/bin/Debug/net7.0/JsonHelper.dll
+/Users/lucai/Projects/Object_Oriented/JsonHelper/bin/Debug/net7.0/JsonHelper.pdb
+/Users/lucai/Projects/Object_Oriented/JsonHelper/obj/Debug/net7.0/JsonHelper.csproj.AssemblyReference.cache
+/Users/lucai/Projects/Object_Oriented/JsonHelper/obj/Debug/net7.0/JsonHelper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucai/Projects/Object_Oriented/JsonHelper/obj/Debug/net7.0/JsonHelper.AssemblyInfoInputs.cache
+/Users/lucai/Projects/Object_Oriented/JsonHelper/obj/Debug/net7.0/JsonHelper.AssemblyInfo.cs
+/Users/lucai/Projects/Object_Oriented/JsonHelper/obj/Debug/net7.0/JsonHelper.csproj.CoreCompileInputs.cache
+/Users/lucai/Projects/Object_Oriented/JsonHelper/obj/Debug/net7.0/JsonHelper.dll
+/Users/lucai/Projects/Object_Oriented/JsonHelper/obj/Debug/net7.0/refint/JsonHelper.dll
+/Users/lucai/Projects/Object_Oriented/JsonHelper/obj/Debug/net7.0/JsonHelper.pdb
+/Users/lucai/Projects/Object_Oriented/JsonHelper/obj/Debug/net7.0/JsonHelper.genruntimeconfig.cache
+/Users/lucai/Projects/Object_Oriented/JsonHelper/obj/Debug/net7.0/ref/JsonHelper.dll

@@ -1,41 +1,43 @@
 ﻿<Properties StartupConfiguration="{438B1255-C7C3-4558-8420-0FB0DF2E6119}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.泛化和关联 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Reflection PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.JsonHelper PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Factory PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Factory PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Factory/Server/CharacterServerDao.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Object__Oriented FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Factory/SYS/DaoFactory.cs">
     <Files>
-      <File FileName="Factory/Program.cs" Line="26" Column="35" />
-      <File FileName="Factory/UserClientDao.cs" Line="4" Column="38" />
-      <File FileName="Factory/User.cs" Line="8" Column="10" />
-      <File FileName="Factory/UserServerDao.cs" Line="6" Column="28" />
-      <File FileName="Factory/GameMain.cs" Line="9" Column="1" />
-      <File FileName="Factory/IUserDao.cs" Line="6" Column="29" />
-      <File FileName="Factory/ClientDaoFactory.cs" Line="21" Column="37" />
-      <File FileName="Factory/ServerDaoFactory.cs" Line="21" Column="46" />
-      <File FileName="Factory/DaoFactory.cs" Line="25" Column="33" />
-      <File FileName="Factory/ICharacterDao.cs" Line="6" Column="34" />
-      <File FileName="Factory/CharacterClientDao.cs" Line="9" Column="40" />
-      <File FileName="Factory/CharacterServerDao.cs" Line="8" Column="10" />
-      <File FileName="Factory/Character.cs" Line="8" Column="10" />
+      <File FileName="JsonHelper/JsonHelper.cs" />
+      <File FileName="JsonHelper/Program.cs" Line="16" Column="54" />
+      <File FileName="JsonHelper/User.cs" />
+      <File FileName="Reflection/Program.cs" Line="16" Column="36" />
+      <File FileName="Factory/SYS/DaoFactory.cs" Line="30" Column="18" />
+      <File FileName="Factory/Program.cs" Line="28" Column="27" />
+      <File FileName="Factory/GameMain.cs" Line="6" Column="48" />
+      <File FileName="Factory/Client/ClientDaoFactory.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Object_Oriented" expanded="True">
-            <Node name="泛化和关联" selected="True" />
+            <Node name="泛化和关联" expanded="True" />
             <Node name="Factory" expanded="True">
-              <Node name="Client" expanded="True" />
+              <Node name="Client" expanded="True">
+                <Node name="ClientDaoFactory.cs" selected="True" />
+              </Node>
+              <Node name="SYS" expanded="True" />
             </Node>
+            <Node name="JsonHelper" expanded="True" />
+            <Node name="Reflection" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.泛化和关联 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Object__Oriented PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
 </Properties>

@@ -14,17 +14,24 @@ namespace Factory
 		//			return new UserServerDao();
 		//	}
 		//}
-
+		private static DaoFactory instance;
 		public static DaoFactory Instance
 		{
 			get
 			{
-				if (GameMain.Type == "Client")
-					return new ClientDaoFactory();
-				else
-					return new ServerDaoFactory();
-			}
-		}
+				//if (GameMain.Type == "Client")
+				//	return new ClientDaoFactory();
+				//else
+				//	return new ServerDaoFactory();
+				if(instance == null)
+				{
+                    Type type = Type.GetType("Factory." + GameMain.Type + "DaoFactory");
+                    instance =  Activator.CreateInstance(type) as DaoFactory;
+                }
+                return instance;
+
+            }
+        }
 		public abstract  IUserDao UserDao { get; }
 
 		public abstract ICharacterDao CharacterDao { get; }
